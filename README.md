@@ -23,7 +23,7 @@ Website interaktif untuk mengonversi suhu antara **Celsius** dan **Fahrenheit**,
 
 - HTML5
 - CSS3 (dengan media query responsive & animasi)
-- Vanilla JavaScript
+- JavaScript
 - Git & GitHub Pages
 
 ## 🔧 Cara Menjalankan
