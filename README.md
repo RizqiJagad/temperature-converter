@@ -15,7 +15,7 @@ Website interaktif untuk mengonversi suhu antara **Celsius** dan **Fahrenheit**,
 
 ## 📸 Cuplikan Layar
 
-![screenshot](/temperature-converter/asset/Tampilan.png) 
+![screenshot](Tampilan.png) 
 ## 📂 Struktur Proyek
 
 
