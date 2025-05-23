@@ -1,6 +1,6 @@
 # 🌡️ Kalkulator Konversi Suhu (Temperature Converter)
 
-Website interaktif untuk mengonversi suhu antara **Celsius** dan **Fahrenheit**, dibuat sebagai bagian dari mini project course **Software Engineer Fundamentals Course (SEFC)**.
+Website interaktif untuk mengonversi suhu antara **Celsius** dan **Fahrenheit**, dibuat sebagai bagian dari mini project course **RevoU Fundamental Course Software Engineering**.
 
 ## 🚀 Fitur Utama
 
